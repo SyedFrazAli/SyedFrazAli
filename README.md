@@ -18,7 +18,7 @@ I'm a passionate and skilled professional with a strong foundation in computer s
 * 2021: Associate Degree in Computer Science, Riphah International University (Islamabad, Pakistan)
 
 **Contact**
-* Portfolio Site: syedfrazali.github.io
+* Portfolio Site: (syedfrazali.github.io)
 * LinkedIn: [syedfrazali](https://www.linkedin.com/in/syedfrazalinaqvi/)
 * Email: work.frazali@gmail.com
 * GitHub: [syedfrazali](https://github.com/SyedFrazAli)
