@@ -1,10 +1,8 @@
 # Syed M Fraz Ali Shah Naqvi
 
-[Profile picture (optional)]
+**AI Engineer | Machine Learning Enthusiast with UI/UX & Web Development Background**
 
-**UI/UX Designer | Web Developer | AI/ML Enthusiast**
-
-I'm a passionate and skilled UI/UX designer, web developer, and AI/ML enthusiast with a strong foundation in computer science. I excel at crafting user-friendly interfaces, building robust web applications, and exploring innovative solutions in the realm of artificial intelligence and machine learning. I thrive in collaborative environments and constantly seek out new technologies to enhance my projects.
+I'm a passionate and skilled professional with a strong foundation in computer science, experience in UI/UX design and web development, and a deep interest in artificial intelligence and machine learning. I excel at designing user-friendly interfaces, building robust web applications, and exploring innovative solutions in the realm of AI and machine learning. I leverage my diverse skillset to bridge the gap between user needs and intelligent systems, developing and deploying AI solutions that are both effective and user-centric. I thrive in collaborative environments and constantly seek out emerging technologies to push the boundaries of AI and enhance user experiences.
 
 **Skills**
 
@@ -14,12 +12,6 @@ I'm a passionate and skilled UI/UX designer, web developer, and AI/ML enthusiast
 * **Soft Skills:** Teamwork, Project Management, Communication, Leadership, Organization, Problem-solving, Attention to Detail
 * **Languages:** Urdu (Native), English (Advanced), Punjabi (Advanced)
 
-**Projects**
-
-* [[Link to Project 1 Repository]]([Description of Project 1 functionalities]) - (Technologies used)
-* [[Link to Project 2 Repository]]([Description of Project 2 functionalities]) - (Technologies used)
-* ... (add more project links and descriptions)
-
 **Education**
 
 * 2023: BS in Computer Science (Lateral Entry), University of Gujrat (Gujrat, Pakistan)
@@ -27,10 +19,7 @@ I'm a passionate and skilled UI/UX designer, web developer, and AI/ML enthusiast
 
 **Contact**
 
-* LinkedIn: [syedfrazalinaqvi](replace with your actual LinkedIn URL)
-* Email: frazali799@gmail.com
-* GitHub: syedfrazali
+* LinkedIn: [syedfrazali](https://www.linkedin.com/in/syedfrazalinaqvi/)
+* Email: work.frazali@gmail.com
+* GitHub: [syedfrazali](https://github.com/SyedFrazAli)
 
-**Badges (optional)**
-
-[Insert badge code here. You can find and generate badges online for various technologies]
