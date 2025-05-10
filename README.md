@@ -1,6 +1,6 @@
 # Syed M Fraz Ali Shah Naqvi
 
-**AI Engineer | Machine Learning Enthusiast with UI/UX & Web Development Background**
+**ML Enthusiast with UI/UX & Web Development Background**
 
 I'm a passionate and skilled professional with a strong foundation in computer science, experience in UI/UX design and web development, and a deep interest in artificial intelligence and machine learning. I excel at designing user-friendly interfaces, building robust web applications, and exploring innovative solutions in the realm of AI and machine learning. I leverage my diverse skillset to bridge the gap between user needs and intelligent systems, developing and deploying AI solutions that are both effective and user-centric. I thrive in collaborative environments and constantly seek out emerging technologies to push the boundaries of AI and enhance user experiences.
 
