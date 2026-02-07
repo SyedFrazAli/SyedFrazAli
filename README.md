@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an MSc Software Engineering student at the University of Bolton with a "jack of all trades" approach to building software. I work across the full stack—from UI design and Flutter mobile apps to web development and applied machine learning.
+I am an MSc Software Engineering student at the University of Bolton. I work across the full stack from UI design and Flutter mobile apps to web development and applied machine learning.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ I am an MSc Software Engineering student at the University of Bolton with a "jac
 ![](https://github-readme-stats.vercel.app/api?username=SyedFrazAli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SyedFrazAli&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedFrazAli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SyedFrazAli&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
