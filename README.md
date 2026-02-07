@@ -1,79 +1,24 @@
-# Syed M Fraz Ali Shah Naqvi
+# 💫 About Me:
+I am an MSc Software Engineering student at the University of Bolton with a "jack of all trades" approach to building software. I work across the full stack—from UI design and Flutter mobile apps to web development and applied machine learning.
 
-**MSc Software Engineering Student | Flutter & Full-Stack Dev | Building User-Centric Apps from Design to Deployment | Open to Graduate Software Roles**
 
-MSc Software Engineering student at the University of Greater Manchester with a "jack of all trades" approach to building software. I work across the full stack from UI design and Flutter mobile apps to web development and applied machine learning turning ideas into products people actually use.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedfrazalinaqvi) 
 
-Over the past three years, I've built cross-platform mobile applications, architected secure web systems for research data, and applied ML techniques to real-world problems. I'm comfortable jumping between Figma mockups, Flutter code, REST APIs, and Python notebooks, which lets me see projects from multiple angles and deliver end-to-end solutions.
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SyedFrazAli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SyedFrazAli&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedFrazAli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## What I Bring
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SyedFrazAli&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-• **Mobile development:** Flutter apps for iOS and Android, including the Shudan B2B Wholesale App with seamless cross-platform UI  
-• **Web engineering:** Responsive platforms with secure data management (CRPA Pvt Ltd), optimized for performance and accessibility  
-• **Applied AI:** Python, TensorFlow, PyTorch, Scikit-Learn for data extraction, model building, and evaluation  
-• **Full-stack mindset:** Dart, JavaScript, Java, Python, C++ | Flutter, Angular, Spring Boot | Git, Linux, AWS, Azure
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Currently pursuing my MSc (Jan 2025–Jul 2026) and actively seeking graduate software engineering, Flutter developer, or full-stack roles in the UK where I can contribute across design, development, and deployment.
+---
+[![](https://visitcount.itsvg.in/api?id=SyedFrazAli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Skills
-
-• **Programming Languages:** Python, Java, C++, HTML, CSS, JavaScript, Dart  
-• **Machine Learning & Data Science:** TensorFlow, PyTorch, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Streamlit, Anaconda  
-• **Web & Mobile Development:** Angular, Flutter, Spring Boot, REST APIs  
-• **Cloud & Tools:** AWS, Azure, Git, Linux, Firebase  
-• **UI/UX:** Figma, User Interface Design  
-• **Soft Skills:** Teamwork, Project Management, Communication, Leadership, Organization, Problem-solving, Attention to Detail  
-• **Languages:** Urdu (Native), English (Advanced), Punjabi (Advanced)
-
-## Experience
-
-### Virtual Assistant | Commerce People (Freelance)
-*Aug 2021 - Oct 2023*
-- Supported e-commerce operations for UK-based wholesale clients, managing product listings, customer inquiries, and order processing
-- Coordinated communication across teams and time zones, ensuring timely project delivery and client satisfaction
-- Developed strong attention to detail and multitasking skills while managing high-volume workflows independently
-- Tools: Shopify, Google Workspace, Slack, Asana
-
-### Frontend Developer | University of Gujrat (Internship)
-*Mar 2022 - Aug 2023*
-- Designed and developed responsive web interfaces using HTML, CSS, JavaScript, and modern frontend frameworks
-- Collaborated with faculty and research teams to build user-facing features for academic projects and departmental websites
-- Implemented UI/UX improvements based on user feedback, increasing accessibility and usability across platforms
-- Tech stack: HTML, CSS, JavaScript, React.js, Git, Figma
-
-### Teacher Assistant | University of Gujrat (Apprenticeship)
-*Jan 2021 - Oct 2023*
-- Assisted in teaching and mentoring students in Computer Science courses
-- Supported faculty with course materials, lab sessions, and student assessments
-
-### Photographer | Self-employed
-*Aug 2017 - Oct 2023*
-- Professional photography services for events and clients
-
-## Education
-
-• **2025-2026:** MSc Software Engineering, University of Bolton (UK) - *Currently Enrolled*  
-• **2021-2023:** BS in Computer Science (Lateral Entry), University of Gujrat (Pakistan)  
-• **2021:** Associate Degree in Computer Science, Riphah International University (Pakistan)
-
-## Projects
-
-### Shudan B2B Wholesale App
-Cross-platform Flutter mobile application with seamless iOS and Android UI for wholesale business operations.
-
-### CRPA Research Data Platform
-Secure web platform with responsive design for managing research data, optimized for performance and accessibility.
-
-### Car Or Bike Detection Model
-AI project using CNN, Streamlit, and TensorFlow for vehicle classification.
-
-## Certifications
-
-• **J.P. Morgan - Software Engineering Job Simulation** (Dec 2025) - Forage  
-  Hands-on experience with Kafka integration, H2 database, REST API development, and Spring Boot
-
-## Contact
-
-• **LinkedIn:** [syedfrazalinaqvi](https://www.linkedin.com/in/syedfrazalinaqvi/)  
-• **Email:** work.syednaqvi@icloud.com  
-• **GitHub:** [SyedFrazAli](https://github.com/SyedFrazAli)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
