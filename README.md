@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an MSc Software Engineering student at the University of Bolton. I work across the full stack from UI design and Flutter mobile apps to web development and applied machine learning.
+I am an MSc Software Engineering graduate at the University of Bolton. I work across the full stack from UI design and Flutter mobile apps to web development and applied machine learning.
 
 
 ## 🌐 Socials:
